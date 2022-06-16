@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Nkanga-Coded-It/Nkanga-Coded-It** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
