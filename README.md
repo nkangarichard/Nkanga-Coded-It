@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Richard Nkanga🇳🇬</h1>
-<h3 align="center">I am an ios developer with greate love for the apple ecosystem and enthusiastic about mobile apps. I enjoy learning new things, creating cool apps,designing eye watering (the good kind) UI and tackling new challenges.</h3>
+<h3 align="center">I'm a passionate iOS developer that has a deep affinity for the Apple ecosystem. I like taking on new challenges, learning new things, making awesome apps, and designing UI that makes you want to cry but the good kind of cry.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nkanga-coded-it&label=Profile%20views&color=0e75b6&style=flat" alt="nkanga-coded-it" /> </p>
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/richard nkanga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nkanga-richard" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/richard nkanga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nkanga richard" height="30" width="40" /></a>
 <a href="https://instagram.com/kangz_legend" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kangz_legend" height="30" width="40" /></a>
 </p>
 
