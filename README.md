@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Richard Nkanga🇳🇬</h1>
 
-<h3 align="center">I'm a passionate iOS developer that has a deep affinity for the Apple ecosystem. I like taking on new challenges, learning new things, making awesome apps, and designing UI that makes you want to cry but the good kind of cry.</h3>
+<h3 align="center">Welcome to my GitHub page! I am an iOS developer with a passion for Apple devices and the Apple ecosystem. I love taking on new challenges and learning new things, and am always striving to create awesome apps with beautiful, intuitive UI. Whether it's my first time working on a particular project or I'm adding to my already extensive skill set, I'm dedicated to delivering the best possible experience for my users.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nkanga-coded-it&label=Profile%20views&color=0e75b6&style=flat" alt="nkanga-coded-it" /> </p>
 
